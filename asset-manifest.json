@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/demo-app-conduit-clone/static/js/main.43ab0936.chunk.js",
-    "main.js.map": "/demo-app-conduit-clone/static/js/main.43ab0936.chunk.js.map",
+    "main.js": "/demo-app-conduit-clone/static/js/main.11ec2755.chunk.js",
+    "main.js.map": "/demo-app-conduit-clone/static/js/main.11ec2755.chunk.js.map",
     "runtime-main.js": "/demo-app-conduit-clone/static/js/runtime-main.70ff76f0.js",
     "runtime-main.js.map": "/demo-app-conduit-clone/static/js/runtime-main.70ff76f0.js.map",
-    "static/js/2.04194a84.chunk.js": "/demo-app-conduit-clone/static/js/2.04194a84.chunk.js",
-    "static/js/2.04194a84.chunk.js.map": "/demo-app-conduit-clone/static/js/2.04194a84.chunk.js.map",
+    "static/js/2.798133fd.chunk.js": "/demo-app-conduit-clone/static/js/2.798133fd.chunk.js",
+    "static/js/2.798133fd.chunk.js.map": "/demo-app-conduit-clone/static/js/2.798133fd.chunk.js.map",
     "index.html": "/demo-app-conduit-clone/index.html",
-    "static/js/2.04194a84.chunk.js.LICENSE.txt": "/demo-app-conduit-clone/static/js/2.04194a84.chunk.js.LICENSE.txt"
+    "static/js/2.798133fd.chunk.js.LICENSE.txt": "/demo-app-conduit-clone/static/js/2.798133fd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.70ff76f0.js",
-    "static/js/2.04194a84.chunk.js",
-    "static/js/main.43ab0936.chunk.js"
+    "static/js/2.798133fd.chunk.js",
+    "static/js/main.11ec2755.chunk.js"
   ]
 }
